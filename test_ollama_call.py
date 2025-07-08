@@ -1,4 +1,4 @@
-#This is used for testing when LLaMA3 via Ollama is not debugged
+#This is used for testing when LLaMA3 via Ollama is not debugged. Also, this is used when the prompt is not found (even after ls -ld or cd ~/ .... , etc.)
 
 prompt = "Explain epilepsy in zebrafish"
 import subprocess
