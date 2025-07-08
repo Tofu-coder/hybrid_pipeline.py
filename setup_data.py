@@ -1,4 +1,4 @@
-This scripts automates the retrieval, extraction, and preperation of GEO gene expression datasets and generates prompt templates for AI-based analysis.
+#This scripts automates the retrieval, extraction, and preperation of GEO gene expression datasets and generates prompt templates for AI-based analysis.
 
 import os
 import ftplib
